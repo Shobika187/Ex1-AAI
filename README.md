@@ -180,8 +180,13 @@ plt.show()
 ```
 ## Output:
 ![image](https://github.com/Shobika187/Ex1-AAI/assets/94508142/986c44cb-6648-4036-a926-6b02e4ca0072)
+
+
 ![image](https://github.com/Shobika187/Ex1-AAI/assets/94508142/c93e521b-2b93-46ca-8dd6-3e6d7eb9793b)
+
+
 ![image](https://github.com/Shobika187/Ex1-AAI/assets/94508142/d421375a-c56a-48aa-a46e-28ee823f9592)
+
 
 ![image](https://github.com/Shobika187/Ex1-AAI/assets/94508142/2da3b68a-dd24-41fb-8c86-c21a52cb5bc9)
 
